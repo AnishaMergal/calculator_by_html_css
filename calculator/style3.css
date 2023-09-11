@@ -1,0 +1,45 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    color: #fdfffc;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(pexels-rostislav-uzunov-5011647.jpg);
+    
+    
+
+}
+h1{
+    font-size: 46px;
+}
+
+input{
+    width: 85px;
+    height: 80px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: rgb(35, 106, 173);
+    border-style: none;
+
+
+}
+
+.btn:hover{
+    background-color:rgb(144, 169, 236);
+    cursor: pointer;
+}
+div{
+    background: transparent;
+    backdrop-filter: blur(10px);
+    align-items: center;
+    margin-top: 50px;
+
+    
+
+}
